@@ -3,6 +3,8 @@ The ROS bot is a differential drive outdoor bot that navigates autonomously. It 
 
 ## CAD
 The Computer-Aided Design was created on SolidWorks Fusion 360.
+
+
 <img src="https://github.com/maanvisingh/RM_Taskphase/blob/main/Coding%20Tasks/Reference%20Image.png" width="400" >
 
 ## Manufacturing 
