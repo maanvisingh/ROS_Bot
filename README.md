@@ -2,7 +2,7 @@
 The ROS bot is a differential drive outdoor bot that navigates autonomously. It uses ROS(Robot Operating System) to combine all the functionalities of the bot. The initial motivation behind this project is to have a hardware model on which ROS can be implemented and navigation algorithms be tested.
 
 ## CAD
-The Computer-Aided Design was created on SolidWorks Fusion 360.
+The Computer-Aided Design was created on SolidWorks Fusion 360. The design is inspired from [TurtleBot3 Burger](https://emanual.robotis.com/docs/en/platform/turtlebot3/features/).
 
 
 <img src="https://github.com/maanvisingh/ROS_Bot/blob/main/CAD.png" width="400" >
